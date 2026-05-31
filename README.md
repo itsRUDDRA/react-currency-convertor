@@ -2,6 +2,10 @@
 
 A responsive Currency Converter built with React that fetches live exchange rates using a public currency API.
 
+## Live Demo
+
+https://react-currency-convertor-woad.vercel.app/
+
 ## Features
 
 - Real-time currency conversion
@@ -61,14 +65,10 @@ src/
 hooks/
 └── useCurrencyinfo.js
 ```
+
 ## Preview
 
-![Currency Converter](public/screenshots/currency-converter-demo.png)
-
-
-## Live Demo
-
-Add your Vercel URL here after deployment.
+public/screenshots/currency-converter-demo.png
 
 ## Future Improvements
 
