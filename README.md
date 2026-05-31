@@ -68,7 +68,9 @@ hooks/
 
 ## Preview
 
-public/screenshots/currency-converter-demo.png
+public/screenshots/currency-convertor-demo.png
+public/screenshots/currency-convertor-demo2.png
+public/screenshots/currency-convertor-demo3.png
 
 ## Future Improvements
 
